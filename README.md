@@ -12,7 +12,6 @@ Table of Contents
    * [Architectures](#Architectures)
    * [Data Augmentation](#Data-Augmentation)
    * [References](#References)
-      * 
 <!--te-->
 
 ## Architectures
